@@ -4,6 +4,6 @@ I'm Web Developer student at University of Sydney. I have a little bit of experi
 Currently work on gaining my knowledge and skill on Web Development.
 
 - 🌱 I’m currently learning Javascript - Express.Js
-- 👀 I’m interested in software development, UX and UI.
+- 👀 I’m interested in Software Development, UX and UI.
 - ⚡ Fun fact: I used to work as Graphic Designer, and Pastry Chef
 - 📫 How to reach me: tirta.setiady@yahoo.com
